@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'DI_Bootcamp_Week4-Day4_ExercicesXP';
+  title = 'Exercice_2';
 }
